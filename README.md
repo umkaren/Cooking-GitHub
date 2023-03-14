@@ -23,3 +23,9 @@ I knew literally _nothing_ about git before this week. Now I'm starting to get t
 I _still_ learning about git and how it works.
 
 ![plant](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*pQRTSx1aaE8Rs7R3pjJahg.jpeg)
+
+
+## John Taylor
+
+What I learned this week is even if you think you can't learn, **DON'T** give up!
+![Remember](https://duckduckgo.com/?q=don%27t+give+up+you+never+know+how+close+you+are&atb=v258-1&iax=images&ia=images&iai=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2f%2Fdf%2F3e%2F2fdf3e65c24915a032b3ebd00b394e64.jpg)
