@@ -28,4 +28,4 @@ I _still_ learning about git and how it works.
 ## John Taylor
 
 What I learned this week is even if you think you can't learn, **DON'T** give up!
-![Remember](https://duckduckgo.com/?q=don%27t+give+up+you+never+know+how+close+you+are&atb=v258-1&iax=images&ia=images&iai=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2f%2Fdf%2F3e%2F2fdf3e65c24915a032b3ebd00b394e64.jpg)
+![Remember](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fquotesviral.net%2Fwp-content%2Fuploads%2F2017%2F09%2Finspirational-positive-quotes-you-never-know-how-close-you-are-never-give-up-on-your-dreams.jpg&f=1&nofb=1&ipt=8e3d0618c9a82e7506db1aa690dcbe3c8a217ab8f2edee05bb50cc9d387b99a0&ipo=images)
