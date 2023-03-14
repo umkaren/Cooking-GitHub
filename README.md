@@ -14,5 +14,7 @@ I knew literally _nothing_ about git before this week. Now I'm starting to get t
 * git status
 ![Cat](https://images.unsplash.com/photo-1636278697183-89bd33b92cf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=441&q=80)
 
-
+## Karen Ngo
+> This week, I learned how to use Git. I am _slowly_ getting it.
+![My brain so far.](https://i.ytimg.com/vi/6DN7pfkxqA4/mqdefault.jpg)
 
