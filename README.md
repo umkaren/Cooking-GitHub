@@ -18,3 +18,8 @@ I knew literally _nothing_ about git before this week. Now I'm starting to get t
 > This week, I learned how to use Git. I am _slowly_ getting it.
 ![My brain so far.](https://i.ytimg.com/vi/6DN7pfkxqA4/mqdefault.jpg)
 
+## Javier Ramirez
+
+I _still_ learning about git and how it works.
+
+![plant](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*pQRTSx1aaE8Rs7R3pjJahg.jpeg)
